@@ -5,7 +5,7 @@
   **AI Engineer | Full-Stack Developer | Building Intelligent Software**                                                                                                                                           
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaisal01/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://m-faisal930.github.io)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faisal-portfolio-gilt.vercel.app/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.muhammad7363@gmail.com)
   [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1zCcaGDTGtqts_xfeVBtoeVkV_n-lNCSn/view?usp=sharing)
 
@@ -20,7 +20,6 @@
 
   - Building **RAG pipelines** with OpenAI embeddings + Pinecone (90% accuracy, <2.3s response)
   - Shipped **[Sportiv.ai](https://sportiv.ai/)** — AI contract analysis across 2,700+ sports regulations
-  - **2 published research papers** in AI & Quantum Cryptography
   - **LUMS PSIFI XVI HackX'24** — 2nd Place (80+ teams)
 
   ---
