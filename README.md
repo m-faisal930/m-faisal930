@@ -64,7 +64,7 @@
 
   | Project | Description | Stack |
   |---------|-------------|-------|
-  | **[Sportiv.ai](https://sportiv.ai/)** | AI contract analysis against 2,700+ sports regulations & 1,700+ CAS precedents | FastAPI, OpenAI, Pinecone, RAG |
+  | **[Sportiv.ai](https://sportiv.ai/)** | AI contract analysis against 2,700+ sports regulations documents & 1,700+ CAS precedents | FastAPI, OpenAI, Pinecone, RAG |
   | **[GrowIn](https://grow-in-one.vercel.app/)** | Startup-investor matchmaking platform with advanced search & NextAuth | Next.js 16, TypeScript, MongoDB |
   | **[Parho Pakistan](https://www.parhopakistan.com/)** | Student sponsorship platform with real-time analytics & Stripe payments | MERN, AWS EC2, Stripe |
   | **[StartupSprint](https://startup-sprint-app.onrender.com/home)** | Real-time social platform with WebSocket-powered live chat | MERN, Socket.io, AWS S3 |
