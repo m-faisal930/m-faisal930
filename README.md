@@ -15,8 +15,7 @@
 
   ### About Me
 
-  Associate Software Engineer at **Amrood Labs**, specializing in **Agentic AI, RAG systems, and full-stack development**. I build AI-powered platforms that process thousands of documents and deliver real-time
-  insights. Previously at CBSOL, where I shipped enterprise MERN apps that reduced HR workloads by 40%.
+ AI Engineer with hands-on experience building production-grade RAG systems, FastAPI backends, and deployable LLM applications. Familiar with agentic workflows, tool-calling patterns, and orchestration frameworks, with focus on retrieval quality, async processing, and scalable backend design.
 
   - Building **RAG pipelines** with OpenAI embeddings + Pinecone (90% accuracy, <2.3s response)
   - Shipped **[Sportiv.ai](https://sportiv.ai/)** — AI contract analysis across 2,700+ sports regulations
