@@ -2,7 +2,7 @@
                                                                                                                                                                                                                    
   # Muhammad Faisal                                                                                                                                                                                                
                                                                                                                                                                                                                    
-  **AI Engineer | Full-Stack Developer | Building Intelligent Software**                                                                                                                                           
+  **AI Engineer | Backend-Focused | Python, FastAPI, RAG, LLM Applications**                                                                                                                                           
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaisal01/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faisal-portfolio-gilt.vercel.app/)
