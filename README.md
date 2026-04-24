@@ -1,90 +1,129 @@
-<div align="center">                                                                                                                                                                                             
-                                                                                                                                                                                                                   
-  # Muhammad Faisal                                                                                                                                                                                                
-                                                                                                                                                                                                                   
-  **AI Engineer | Backend-Focused | Python, FastAPI, RAG, LLM Applications**                                                                                                                                           
+<h1 align="center">Muhammad Faisal</h1>
+<h3 align="center">Backend AI Engineer | Python, FastAPI, RAG Systems</h3>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfaisal01/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faisal-portfolio-gilt.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisal.muhammad7363@gmail.com)
-  [![Resume](https://img.shields.io/badge/Resume-1a1a2e?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1zCcaGDTGtqts_xfeVBtoeVkV_n-lNCSn/view?usp=sharing)
+<p align="center">
+  <a href="mailto:faisal.muhammad7363@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/mfaisal01/">LinkedIn</a> •
+  <a href="https://github.com/m-faisal930">GitHub</a> •
+  <a href="https://faisal-portfolio-gilt.vercel.app/">Portfolio</a>
+</p>
 
-  </div>
+---
 
-  ---
+## About Me
 
-  ### About Me
+I build backend-heavy AI systems with a focus on **production-grade RAG pipelines**, **FastAPI services**, and **LLM-powered applications**. My work centers on retrieval quality, async processing, and scalable backend design for document intelligence and AI-driven workflows. This matches the positioning and project direction shown in your current resume.
 
- AI Engineer with hands-on experience building production-grade RAG systems, FastAPI backends, and deployable LLM applications. Familiar with agentic workflows, tool-calling patterns, and orchestration frameworks, with focus on retrieval quality, async processing, and scalable backend design.
+---
 
-  - Building **RAG pipelines** with OpenAI embeddings + Pinecone (90% accuracy, <2.3s response)
-  - Shipped **[Sportiv.ai](https://sportiv.ai/)** — AI contract analysis across 2,700+ sports regulations
-  - **LUMS PSIFI XVI HackX'24** — 2nd Place (80+ teams)
+## Tech Stack
 
-  ---
+### Languages
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql)
 
-  ### Tech Stack
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-111?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-111?style=for-the-badge&logo=express)
+![Django](https://img.shields.io/badge/Django-111?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-111?style=for-the-badge&logo=flask)
+![REST API](https://img.shields.io/badge/REST_APIs-111?style=for-the-badge)
+![WebSockets](https://img.shields.io/badge/WebSockets-111?style=for-the-badge)
+![Async Processing](https://img.shields.io/badge/Async_Processing-111?style=for-the-badge)
 
-  **AI & ML**
+### AI & LLM Systems
+![RAG](https://img.shields.io/badge/RAG-111?style=for-the-badge)
+![LLM Apps](https://img.shields.io/badge/LLM_Applications-111?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-111?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-111?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-111?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/Semantic_Search-111?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector_Search-111?style=for-the-badge)
+![Prompt Orchestration](https://img.shields.io/badge/Prompt_Orchestration-111?style=for-the-badge)
+![OCR](https://img.shields.io/badge/OCR-111?style=for-the-badge)
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-  ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-  ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### Data & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-111?style=for-the-badge&logo=redis)
+![Pinecone](https://img.shields.io/badge/Pinecone-111?style=for-the-badge)
+![AWS S3](https://img.shields.io/badge/AWS_S3-111?style=for-the-badge&logo=amazonaws)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-111?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-111?style=for-the-badge)
 
-  **Full-Stack Development**
+### Frontend
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwind-css)
 
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+---
 
-  **Databases & Cloud**
+## Featured Projects
 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-  ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### Sportiv RAG
+**AI-Powered Sports Contract Analysis Platform**
 
-  ---
+Production-grade RAG backend for sports contract analysis.
 
-  ### Featured Projects
+- Processed **2,759 legal documents (~1.3 GB)**
+- Built retrieval pipeline with **OCR, chunking, embeddings, and Pinecone vector search**
+- Designed a **rules + LLM orchestration** workflow around a **42-clause compliance taxonomy**
+- Reduced token usage by **61.5%**
+- Improved Romanian-language OCR robustness and test performance
 
-  | Project | Description | Stack |
-  |---------|-------------|-------|
-  | **[Sportiv.ai](https://sportiv.ai/)** | AI contract analysis against 2,700+ sports regulations documents & 1,700+ CAS precedents | FastAPI, OpenAI, Pinecone, RAG |
-  | **[GrowIn](https://grow-in-one.vercel.app/)** | Startup-investor matchmaking platform with advanced search & NextAuth | Next.js 16, TypeScript, MongoDB |
-  | **[Parho Pakistan](https://www.parhopakistan.com/)** | Student sponsorship platform with real-time analytics & Stripe payments | MERN, AWS EC2, Stripe |
-  | **[StartupSprint](https://startup-sprint-app.onrender.com/home)** | Real-time social platform with WebSocket-powered live chat | MERN, Socket.io, AWS S3 |
-  | **[TimeTrack](https://github.com/m-faisal930/timetrack)** | AI attendance system with facial recognition — 98% accuracy | Python, Django, OpenCV, MySQL |
+**Tech:** Python, FastAPI, OpenAI, Pinecone, PostgreSQL, Redis, BullMQ, AWS S3, OCR 
 
-  ---
+> Project link: `https://sportiv.ai/`
 
-  ### GitHub Stats
+---
 
-  <div align="center">
-    <img height="170" 
-  src="https://github-readme-stats.vercel.app/api?username=m-faisal930&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-faisal930&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9" />
-  </div>
+### Parho Pakistan
+**AI-Driven Sponsorship and Academic Monitoring Platform**
 
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-faisal930&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=818cf8&currStreakLabel=818cf8" />
-  </div>
+Centralized platform for sponsorship workflows, onboarding, case management, and monitoring.
 
-  ---
+- Built workflows for **4 stakeholder groups**
+- Added an **LLM-powered chatbot** and recommendation feed
+- Prepared the platform for deployment with **Docker, JWT auth, cloud storage, and real-time communication**
 
-  <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=m-faisal930&style=flat-square&color=818cf8" />
-  </div>
+**Tech:** Node.js, Express.js, MongoDB, React.js, OpenAI API, Socket.IO, JWT, Docker :contentReference[oaicite:2]{index=2}
+
+> Project link: `http://www.parhopakistan.com/`
+
+---
+
+## Experience Snapshot
+
+### AI Engineer — Amrood Labs
+Built production-grade AI applications and backend services using Python and FastAPI, with work spanning RAG systems, document intelligence, retrieval pipelines, async processing, and scalable backend AI systems. 
+
+### Backend AI Engineer — CBSOL Pvt Ltd
+Built backend services with Python, FastAPI, and REST APIs, while contributing to AI-enabled backend workflows, cloud deployment, and backend architecture for scalable applications. 
+
+---
+
+## Achievements
+
+- **2nd Place — PSIFI XVI Web Shark, LUMS**
+- **3rd Place — Full Stack Development Hackathon, Decentral Developers**
+
+---
+
+## Currently Focused On
+
+- Building scalable **RAG and LLM backends**
+- Improving **retrieval quality** and **prompt orchestration**
+- Designing **async AI processing pipelines**
+- Shipping **production-ready FastAPI systems**
+
+---
+
+## Connect With Me
+
+- **Email:** faisal.muhammad7363@gmail.com
+- **LinkedIn:** [linkedin.com/in/mfaisal01](https://www.linkedin.com/in/mfaisal01/)
+- **GitHub:** [github.com/m-faisal930](https://github.com/m-faisal930)
